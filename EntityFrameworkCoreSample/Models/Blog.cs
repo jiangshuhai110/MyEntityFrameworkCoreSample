@@ -15,8 +15,6 @@ namespace EntityFrameworkCoreSample.Models
          
         public string Url { get; set; }
 
-        public string Url2 { get; set; }
-
         public DateTime CreateDate { get; set; }
 
 
